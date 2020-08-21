@@ -47,7 +47,7 @@ export default {
         value: "preparedDate",
         orderBy: "timestamp",
         style: {
-          width: "14%",
+          width: "113px",
         },
       },
       {
@@ -55,7 +55,7 @@ export default {
         value: "name",
         orderBy: "name",
         style: {
-          width: "40%",
+          width: "323px",
         },
       },
       {
@@ -63,7 +63,7 @@ export default {
         value: "culture",
         orderBy: "culture",
         style: {
-          width: "23%",
+          width: "185px",
         },
       },
       {
@@ -71,7 +71,7 @@ export default {
         value: "preparedAssessment",
         orderBy: "assessment",
         style: {
-          width: "23%",
+          width: "185px",
         },
       },
     ];
